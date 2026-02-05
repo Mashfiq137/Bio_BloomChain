@@ -1,4 +1,4 @@
-# BloomChain Smart Contract by Cameron Denton
+# BloomChain Smart Contract
 
 A Dynamic Hierarchical Bloom Filter (DHBF) is an advanced data structure designed for efficient identity storage, rapid querying, and seamless enrollment. When integrated with a blockchain system, it ensures a highly secure and reliable enrollment process. This project leverages Solidity smart contracts and the Hardhat framework to bring the DHBF concept to life and demonstrate its practical applications.
 
